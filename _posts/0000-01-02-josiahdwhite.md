@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Wazzup fam!
+"The grind never stops..." - Josiah White 2021
 Use the left arrow to go back!
